@@ -14,7 +14,7 @@ The dashboard provides a consolidated view of business performance, enabling sta
 
 ## 🖥️ Dashboard Preview
 
-![TNMT Revenue Dashboard](images/TNMT_DASHBOARD.png)
+![TNMT Revenue Dashboard](TNMT_DASHBOARD.png)
 
 *TNMT Revenue Dashboard – Interactive Power BI Report*
 
