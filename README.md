@@ -1,1 +1,0 @@
-# TNMT-Data-Analyst-Power-Bi
